@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0",
+    "img": "img/imgres.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "1",
+    "img": "img/imgres.jpg",
+    "name": "T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "2",
+    "img": "img/imgres.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "3",
+    "img": "img/45197503_xxl.jpg",
+    "name": "T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "4",
+    "img": "img/45197503_xxl.jpg",
+    "name": "T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "5",
+    "img": "img/45197503_xxl.jpg",
+    "name": "T-Shirt",
+    "count": "1000.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "6",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "1000.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "7",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+   "count": "1000.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "8",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+   "count": "1000.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "9",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+   "count": "1000.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "10",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "11",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "12",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "13",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  },
+  {
+    "id": "14",
+    "img": "img/45197503_xxl.jpg",
+    "name": "Polo T-Shirt",
+    "count": "45.50",
+    "indirim": "65.50",
+    "acik": "1"
+  }
+]
